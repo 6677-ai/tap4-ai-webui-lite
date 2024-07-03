@@ -3,7 +3,7 @@
     "loading": "loading..."
   },
   "Navigation": {
-    "title": "Tap4 AI Tools Directory",
+    "title": "Open-source Tap4 AI Tools Directory",
     "discover": "Discover AI",
     "submit": "Submit",
     "newtools": "New Tools",
@@ -11,7 +11,7 @@
     "menu": "menu"
   },
   "Footer": {
-    "title": "Tap4 AI Tools Directory",
+    "title": "Open-source Tap4 AI Tools Directory",
     "subTitle": "Discover the best AI tools of 2024 with the Tap4 AI Tools Directory!",
     "support": "Support",
     "tap4": "Tap4 AI",
@@ -23,8 +23,8 @@
   "Faq": {
     "title": "Frequently Asked Questions",
     "1": {
-      "question": "What is Tap4 AI Tools Directory?",
-      "answer": "Tap4 AI Tools Directory - tap4.ai is building an ai tools directory that helps you get your favorite ai tools. It can get ai writing tools, ai markting tools, ai paraphrasing tools, ai seo tools, ai study tools, ai generator tools, ai research tools, ai art tools, ai music tools, ai video tools, ai coding tools, ai photo tools and more here."
+      "question": "What is Open-source  Tap4 AI Tools Directory?",
+      "answer": "Open-source  Tap4 AI Tools Directory - tap4.ai is building an ai tools directory that helps you get your favorite ai tools. It can get ai writing tools, ai markting tools, ai paraphrasing tools, ai seo tools, ai study tools, ai generator tools, ai research tools, ai art tools, ai music tools, ai video tools, ai coding tools, ai photo tools and more here."
     },
     "2": {
       "question": "How to found your ai tools in tap4 ai tools directory?",
@@ -118,7 +118,7 @@
     "goHome": "go home"
   },
   "Home": {
-    "title": "Tap4 AI - Discover The Best AI Tools 2024",
+    "title": "Open-source Tap4 AI - Discover The Best AI Tools 2024",
     "subTitle": "Get your favorite AI tools in Tap4 AI Tools Directory. AI tools list are updated daily by GPT-4o. It's free to submit here to enhance your SEO now. ",
     "ai-navigate": "AI Tools List",
     "exploreMore": "Get More AI Tools"
@@ -156,15 +156,15 @@
   },
   "Metadata": {
     "home": {
-      "title": "Get your best AI Tools | Tap4 AI Directory",
+      "title": "Get your best AI Tools | Open-source Tap4 AI Directory",
       "description": "Tap4 AI Directory is a tool provides free AI Tools Directory. Get your favorite AI tools with Tap4 AI Directory, Tap4 AI Directory aims to collect all the AI tools and provide the best for users.",
       "keywords": "Tap4 AI Directory"
     },
     "ai": {
-      "titleSubfix": "Tap4 AI Directory"
+      "titleSubfix": "Open-source Tap4 AI Directory"
     },
     "explore": {
-      "title": "Best AI Tools Explore 2024 | Tap4 AI Directory",
+      "title": "Best AI Tools Explore 2024 | Open-source Tap4 AI Directory",
       "titlePrefix": "Tap4 AI Directory Explore",
       "titleSuffix": "Tap4 AI Directory",
       "description": "Tap4 AI Directory is a tool provides free AI Tools Directory. Get your favorite AI tools with Tap4 AI Directory, Tap4 AI Directory aims to collect all the AI tools and provide the best for users.",
