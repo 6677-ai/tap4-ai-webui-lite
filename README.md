@@ -4,7 +4,7 @@ Tap4 AI Web UI is the open source AI tools directory build by [Tap4 AI Tools Dir
 aims to help everyone build their own AI Tools Directory easily. You can fork the project and deploy to vercel by one
 click and update your own ai tools by the dataList in the project.
 
-English | [简体中文](https://github.com/6677-ai/tap4-ai-webui/blob/main/README.zh-CN.md)
+English | [简体中文](https://github.com/6677-ai/tap4-ai-webui-lite/blob/main/README.zh-CN.md)
 
 ## Link Me
 
