@@ -157,27 +157,25 @@ etc. For more, please visit: [Tap4 AI](https://tap4.ai)
 Here is the website list for submit your product to get users. Please visit
 [StartUp Your Product List](https://github.com/6677-ai/TAP4-AI-Directory/blob/main/Startup-Your-Product-List.md)
 
-### GPT-4o in OpenAI
+### Flux AI Image Generator
 
-The amazing new feature released in 2024.05.14. GPT-4o is coming, let's chat with her. Please
-[GPT-4o](https://openai.com/index/hello-gpt-4o/)
+Flux AI Image Generator is currently available for free experience, please visit
+[Flux AI Image Generator](https://flux-ai.io/)
+
+### Photo to Video AI
+
+Photo to Video AI is currently available for free experience, please visit
+[Photo to Video AI](https://dreammachineai.online/)
+
+### Flux Pro Image Generator
+
+Flux Pro Image Generator is currently available for free experience, please visit
+[Flux Pro Image Generator](https://flux-pro.net/)
 
 ### The Tattoo AI Generator and Design
 
 Tattao AI Design is a tattoo ai generator and design for the tattoo fans. If you are interested with it, visit
 [Tattoo AI Design](https://tattooai.design)
-
-## Sponsor List
-
-### Anime Girl Studio -- AI Anime Girl Chat & Generator
-
-Anime Girl Studio is the ai anime girl generator and chat product. You can generate what you like and chat with the AI
-anime girl, please visit [Anime Girl Studio](https://animegirl.studio)
-
-### Best AI Girl Friend -- Best AI Girl Chat & Generator
-
-Best AI Girl Friend is the ai girl generator and chat product. You can generate what you like and chat with the AI anime
-girl, please visit [Best AI Girl Friend](https://aigirl.best)
 
 ## Other open source
 
