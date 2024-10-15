@@ -167,6 +167,24 @@ Flux AI Image Generator is currently available for free experience, please visit
 Photo to Video AI is currently available for free experience, please visit
 [Photo to Video AI](https://dreammachineai.online/)
 
+### Flux 1.1 Pro - Free Online Flux.1 AI Image Generator
+
+[Flux 1.1 Pro](https://fluxproweb.com/)
+
+
+### Free Stable Diffusion 3 Online Tool
+
+[Free Stable Diffusion 3 Online](https://stable-diffusion-3.online/)
+
+### Free Tiny Png Tool
+
+[Free Type Png Tool](https://freetinypng.com/)
+
+
+### Free GPT2 Output Detector
+
+[Free GPT2 Output Detector](https://openai-openai-detector.com/)
+
 ### Flux Pro Image Generator
 
 Flux Pro Image Generator is currently available for free experience, please visit
